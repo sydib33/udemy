@@ -13,11 +13,3 @@ Welcome to the Udemy Clone Frontend project! This project is a replica of the Ud
 ## Demo
 
 You can see the live demo of this project at https://errormakesclever.github.io/udemy-clone/
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/udemy-clone-frontend.git
